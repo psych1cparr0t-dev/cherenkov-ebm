@@ -1,0 +1,71 @@
+{
+  "experiment": "real_world_validation",
+  "results": [
+    {
+      "domain": "Protein fold SCOP 4-class",
+      "lr_mean": 0.4833,
+      "lr_std": 0.0624,
+      "aug_mean": 0.4833,
+      "aug_std": 0.0624,
+      "delta": 0.0,
+      "n_prims": 2.6,
+      "fingerprint": [
+        "cusp",
+        "saddle",
+        "linear_detachment"
+      ]
+    },
+    {
+      "domain": "DNA splice sites (180D genomic)",
+      "lr_mean": 0.8231,
+      "lr_std": 0.0173,
+      "aug_mean": 0.8231,
+      "aug_std": 0.0173,
+      "delta": 0.0,
+      "n_prims": 0.0,
+      "fingerprint": []
+    },
+    {
+      "domain": "EEG eye-state (14-electrode real)",
+      "lr_mean": 0.8273,
+      "lr_std": 0.0225,
+      "aug_mean": 0.8267,
+      "aug_std": 0.022,
+      "delta": -0.0007,
+      "n_prims": 6.0,
+      "fingerprint": [
+        "wormhole",
+        "linear_detachment",
+        "saddle"
+      ]
+    },
+    {
+      "domain": "Steel annealing phases (real)",
+      "lr_mean": 0.8156,
+      "lr_std": 0.0351,
+      "aug_mean": 0.8156,
+      "aug_std": 0.0351,
+      "delta": 0.0,
+      "n_prims": 2.0,
+      "fingerprint": [
+        "oscillatory",
+        "directional",
+        "saddle"
+      ]
+    },
+    {
+      "domain": "Ionosphere radar signal (34D)",
+      "lr_mean": 0.7849,
+      "lr_std": 0.0365,
+      "aug_mean": 0.7925,
+      "aug_std": 0.0382,
+      "delta": 0.0075,
+      "n_prims": 3.8,
+      "fingerprint": [
+        "wormhole",
+        "cusp",
+        "oscillatory"
+      ]
+    }
+  ]
+}

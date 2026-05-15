@@ -1,0 +1,24 @@
+[
+  {
+    "dataset": "ionosphere",
+    "lift_mean": 0.0037735849056603765,
+    "lift_std": 0.0012578616352201255,
+    "jaccard": 0.28761904761904766,
+    "top": [
+      "radial",
+      "wormhole",
+      "saddle"
+    ]
+  },
+  {
+    "dataset": "qsar",
+    "lift_mean": 0.0027777777777777644,
+    "lift_std": 0.0005555555555555498,
+    "jaccard": 0.2073678702250131,
+    "top": [
+      "radial",
+      "saddle",
+      "wormhole"
+    ]
+  }
+]

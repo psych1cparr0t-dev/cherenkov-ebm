@@ -1,0 +1,66 @@
+[
+  {
+    "domain": "Circles",
+    "lr_mean": 0.5133,
+    "lr_std": 0.0332,
+    "aug_mean": 0.9773,
+    "aug_std": 0.0297,
+    "delta": 0.464
+  },
+  {
+    "domain": "Moons",
+    "lr_mean": 0.852,
+    "lr_std": 0.0232,
+    "aug_mean": 0.9773,
+    "aug_std": 0.0155,
+    "delta": 0.1253
+  },
+  {
+    "domain": "XOR",
+    "lr_mean": 0.504,
+    "lr_std": 0.0388,
+    "aug_mean": 0.828,
+    "aug_std": 0.083,
+    "delta": 0.324
+  },
+  {
+    "domain": "Saddle",
+    "lr_mean": 0.5587,
+    "lr_std": 0.0247,
+    "aug_mean": 0.8493,
+    "aug_std": 0.0137,
+    "delta": 0.2907
+  },
+  {
+    "domain": "Cusp",
+    "lr_mean": 0.796,
+    "lr_std": 0.0397,
+    "aug_mean": 0.8747,
+    "aug_std": 0.0364,
+    "delta": 0.0787
+  },
+  {
+    "domain": "Breast Cancer",
+    "lr_mean": 0.9509,
+    "lr_std": 0.0297,
+    "aug_mean": 0.9509,
+    "aug_std": 0.0297,
+    "delta": 0.0
+  },
+  {
+    "domain": "Iris 3-class",
+    "lr_mean": 0.8933,
+    "lr_std": 0.0569,
+    "aug_mean": 0.92,
+    "aug_std": 0.0412,
+    "delta": 0.0267
+  },
+  {
+    "domain": "Wine 3-class",
+    "lr_mean": 0.963,
+    "lr_std": 0.0117,
+    "aug_mean": 0.9667,
+    "aug_std": 0.0074,
+    "delta": 0.0037
+  }
+]
